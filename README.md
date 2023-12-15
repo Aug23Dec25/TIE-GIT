@@ -1,2 +1,3 @@
-# TIE-GIT
-This repository is worth more than 3 credits 
+# TIE-GIT Git Course
+
+This repository is designated for the TIE-GIT Git course in the fall semester of 2023 at Tampere University.
